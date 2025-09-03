@@ -1,5 +1,4 @@
-def greet():
-    print('Hello again from Wohlig!')
 
-if __name__ == '__main__':
-    greet()
+print('Hello from MAIN branch!')
+print('Hello from FEATURE branch!')
+print('This is for Pull Request demo')
