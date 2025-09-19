@@ -1,4 +1,4 @@
-# WOHLIG Training Project
+# WOHLIG Training 
 
 ## Running the demo
 
